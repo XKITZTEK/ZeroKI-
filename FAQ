@@ -1,1 +1,10 @@
+> EXPLAINATION:
+[ver] = OS version or SRV/SYSTEM version depending in the context
+[SYSTEM] = usually means the terminal called in the script "ZeroKI++" which you run commands trough
+[SRV] = usually the server (script)
 
+> How do i use it?
+click on the file you downloaded into your PC by going into file explorer > downloads > ZeroKI[ver]++
+
+> What are the requirements for the system and server?
+OS: Windows 10/11
