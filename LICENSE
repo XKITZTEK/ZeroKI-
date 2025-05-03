@@ -1,121 +1,144 @@
-Creative Commons Legal Code
+> License by XKITZ (xkitztek@gmail.com)
 
-CC0 1.0 Universal
+---
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+# A. You Can Use This – But With Limits
 
-Statement of Purpose
+You (the person reading this) are absolutely welcome to **use this code**, run it on your machine, use it, share it. That’s cool. That’s what it’s here for.
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+But here's the thing: this code is being given to you under a very specific set of rules. You can use it **as-is**, for **non-commercial** purposes, **without modification**, and only **if you credit me – XKITZ – as the original creator**. You’re not buying this. You’re not licensing it for your startup. You’re not uploading it to your GitHub as your own. You’re borrowing it under strict terms.
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+---
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+# B. Give Credit – Always
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+You are **required** to give proper and visible credit wherever and however you use this code. That means:
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+* You keep any references to “XKITZ” intact.
+* You **don’t remove this license** from any distribution or file set.
+* You **clearly acknowledge** that this code was created by me, XKITZ.
+* If you post or show off work based on this, include a link to the original repo.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+No silent edits, no stripping my name off the code headers, no “found this online” vague citations. If you can copy the code, you can copy the credit.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+---
 
-4. Limitations and Disclaimers.
+# C. You Cannot Modify or Remix
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+This is **not open-source in the remix sense**. You are **not allowed** to:
+
+* Fork this code into a new project and call it your own.
+* Modify it, even if you credit me.
+* Add new features, strip out features, or repackage it with “improvements.”
+* Use it as a base or template for your own application, game, tool, or website.
+* Publish a “fixed” or “optimized” version.
+
+You can run it. You can look at it. But you **cannot change it** and redistribute it in any form – even for free.
+
+This protects the integrity of the original work and keeps people from diluting or misrepresenting what this code is supposed to be.
+
+IF you really want to fix or optimize it, just contact me privately and i will fix it and release a new fixed and optimized version of the script.
+
+---
+
+# D. No Commercial Use – Ever
+
+This code is released **for non-commercial use only**. That includes:
+
+* No using this code in anything you make money from as this script is provided by XKITZ for free.
+* No bundling it in an app that charges users.
+* No integrating it into a product, platform, service, website, plugin, theme, or tool that is sold, monetized, or branded.
+* No training AI models with it (yes, this clause explicitly forbids that too).
+* No including this in client work, freelancing gigs, or commissioned projects.
+* No internal corporate or startup use – unless it’s purely experimental and **never deployed**.
+
+If you want to use this in a commercial project, you need **explicit written permission** from me, XKITZ. You can contact me at: `xkitztek@gmail.com`. We’ll talk.
+
+---
+
+# E. Don’t Claim It’s Yours
+
+This is a big one. You are **absolutely not allowed** to:
+
+* Claim authorship or ownership of this code.
+* Rebrand or rename it and pass it off as your own creation.
+* Post it on your site/repo with your name as the creator.
+* Sell or offer it on marketplaces, even for free, under your identity.
+* Use it in “portfolio” projects as if you built it.
+
+Even if you didn’t change a single line of code, you **still must say** it came from me. Attribution isn’t optional; it’s mandatory.
+
+---
+
+# F. Read-Only: What You See Is What You Get
+
+This license is “read-only” in spirit. You’re getting access to the code so you can **observe**, **learn**, or **use it privately**, but you’re not being granted rights to edit, extend, or build upon it.
+
+Why? Because I created this for specific use cases, with specific behaviors, and I don’t want versions floating around the web that aren’t mine but are still connected to me.
+
+If you need a version with different features, behavior, language, or logic – build your own from scratch.
+
+---
+
+# G. No Redistribution – Modified or Not
+
+You **cannot redistribute** this code in **any form**. That means:
+
+* No hosting it on another GitHub repo.
+* No bundling it in a package, framework, toolkit, or archive.
+* No uploading it to code-sharing platforms like Gist, Pastebin, or Stack Overflow.
+* No emailing, selling, sharing, or distributing it in classrooms, YouTube videos, or blogs.
+
+If someone wants the code, link them to the **original repository** – don’t reupload it.
+
+---
+
+# H. No AI Training or Data Harvesting
+
+This section is crystal clear: you **may not use this code** (in part or whole) to:
+
+* Train machine learning or AI models (LLMs, transformers, etc.).
+* Feed into dataset crawlers, scrapers, or pipelines.
+* Derive embeddings, statistics, or patterns from the codebase.
+
+This code is for **humans**, not machines.
+
+---
+
+# I. *Warranty Disclaimer (aka No Blame Game)
+
+This code is provided **“as is”** without warranty of any kind. That includes:
+
+* No guarantees it’ll work the way you expect.
+* No assurance it’s bug-free or secure.
+* No promise of support, fixes, maintenance, or documentation.
+
+If it breaks something, leaks data, crashes your system, or causes catastrophic existential dread – that’s on you. The script is on beta/unstable. Use it at your own risk.
+
+---
+
+# K. Contact and Commercial Use Request and Erorr/Bug Reports
+
+FOR COMPANIES:
+
+✉️ `xkitztek@gmail.com`
+
+FOR CONTACT OR REPORT BUGS/ERORRS:
+
+join the discord server i will provide in README.md
+
+Everything’s negotiable – just don’t assume permission without getting it.
+
+---
+
+If you’re cool with that – awesome. You’re welcome to use this under the terms above. If not, there are plenty of fully open-source projects out there. This just isn’t one of them.
+
+---
+
+# TL;DR (Still Legally Binding):
+> Use it? Yes.
+> Change it? No.
+> Sell it? No.
+> Claim it? No.
+> Credit? Yes.
+> System breaks? Your problem.
